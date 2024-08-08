@@ -21,19 +21,60 @@ I'm a passionate Software Architect and Developer with over 9 years of experienc
 
 ## 🚀 Experience Highlights
 
-- **Startup & Freelance Projects (2023-2024):**
-  - Developed Azure-based RAG system with LLM classification
-  - Designed and implemented secure Python-based architectures
-  - Created Alteryx plugins with seamless integration
+### Startup | Software Architect and Developer
+*February 2023 – June 2024*
 
-- **Incedo | Technical Lead (2021-2023):**
-  - Led legacy product modernization, improving maintainability by 40%
-  - Implemented BDD testing framework, increasing code coverage by 60%
-  - Developed architecture diagrams and ADRs for complex projects
+#### Freelance Projects
+- Built an Azure-based RAG system with advanced search capabilities and LLM classification
+- Collaborated with stakeholders, conducted API research, and designed a secure Python-based architecture for integration into Alteryx Designer
+- Provided post-deployment support for a successfully launched Alteryx plugin
+- Technologies used: LLM, RAG, Azure, Python, Alteryx
 
-- **Persistent | Module Lead (2020-2021):**
-  - Developed custom OpenStack Cinder drivers for IBM storage devices
-  - Designed Python-Ansible automation for complex user environment migrations
+### Incedo | Technical Lead
+*February 2021 – January 2023*
+
+#### Fortra (Tripwire) Project
+- Led the modernization of a legacy DSR product, migrating from Perl to Python
+- Implemented a BDD testing framework, increasing code coverage by 60%
+- Developed architecture diagrams, ADRs, and implemented progress tracking
+- Led development efforts and fostered a supportive learning environment
+- Technologies used: Python, Java, Perl, Gradle, BDD, AWS, Teamcity, Jira
+
+### Persistent | Module Lead
+*July 2020 – January 2021*
+
+#### IBM Project
+- Developed custom OpenStack Cinder drivers for IBM storage devices
+- Technologies used: Openstack, Cinder, Python, Django, Linux
+
+#### Godaddy Project
+- Designed Python-Ansible automation for migrating complex user environments to Plex
+- Built a scalable Python-Ansible AWS migration framework
+- Technologies used: Python, Ansible, AWS, Jenkins, Kubernetes
+
+### Startup | Software Developer
+*May 2018 – June 2019*
+
+#### Freelance Project
+- Developed a sophisticated Python-based automatic trading system using Zerodha Kite APIs
+- Incorporated machine learning algorithms to enhance trading strategy decision-making
+- Technologies used: Python, ML (Pandas, NumPy, Scikit-learn), Linux
+
+### Accenture | Software Developer
+*August 2014 – April 2018*
+
+#### JLR Project (June 2016 - April 2018)
+- Designed robust SOAP/REST APIs
+- Strengthened Linux security with access controls
+- Enhanced system visibility through logging/auditing
+- Ensured code quality with Pytest unit testing, achieving 90% coverage
+- Technologies used: Python, Pytest, SOAP, REST, Linux
+
+#### Unilever Project (August 2014 - May 2016)
+- Designed and developed a Python-based automation solution to streamline data operations across 500+ process chains
+- Built a Django project for data storage and analysis
+- Implemented Azure AD for secure access control
+- Technologies used: Python, Django, Linux
 
 ## 🏆 Certifications
 
