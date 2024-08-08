@@ -47,6 +47,6 @@ I'm a passionate Software Architect and Developer with over 9 years of experienc
 ## 📫 Get in Touch
 
 - Email: bharat.gaikwad.jobs@gmail.com
-- GitHub: [github.com/bharatg](https://github.com/bharatggaikwad)
+- GitHub: [github.com/bharatggaikwad](https://github.com/bharatggaikwad)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions!
